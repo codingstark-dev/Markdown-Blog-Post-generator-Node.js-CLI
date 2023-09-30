@@ -45,9 +45,8 @@ Pull requests are welcome to add features or fix bugs!
 
 Some ideas:
 // TODO
-[]  - Support different frontmatter formats (YAML etc)
-[]  - Add prompt for categories, tags
-[]  - Allow passing filename on CLI instead of prompt
-[]  - Wordpress to Markdown converter
-[]  - Add tests
+- [ ] Support different frontmatter formats (YAML etc)
+- [ ] Add prompt for categories, tags
+- [ ] Allow passing filename on CLI instead of prompt
+- [ ] Wordpress to Markdown converter
     
